@@ -1,0 +1,26 @@
+.popup-close {
+    position: absolute;
+    right: 15px;
+    z-index: 9999;
+    top: 5px;
+}
+
+.payslip-container h4 {
+    display: inline;
+}
+
+.table-bordered {
+    border: 1px solid #dee2e6;
+    // table-layout: fixed !important;
+}
+
+.payslip-info {
+    padding: 20px 20px;
+    border-bottom: 1px solid #e9ecef;
+    border-top: 1px solid #e9ecef;
+}
+
+.payslip-info .table-bordered th {
+    border-bottom-width: 2px;
+    background-color: #f2f2f2;
+}
